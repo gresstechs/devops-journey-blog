@@ -98,9 +98,9 @@ The most important project you'll ever work on is yourself.
 
 ### Connect With Me
 
-- [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)
-- [GitHub](https://github.com/YOUR-GITHUB)
-- [Twitter](https://twitter.com/YOUR-TWITTER)
+- [LinkedIn](https://linkedin.com/in/progresschidera)
+- [GitHub](https://github.com/grestechs)
+- [Twitter](https://twitter.com/progresschidera)
 
 ---
 
